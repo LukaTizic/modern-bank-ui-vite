@@ -1,6 +1,10 @@
-# You can see live site by clicking on the [`link`](https://serene-quokka-512aa9.netlify.app/)
+This is a `  Modern Bank UI 💰 ` project with [`Demo-link`](https://serene-quokka-512aa9.netlify.app/) and Figma files provided [`Here 🎨`](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485).
+</br>
 
-### Figma designs used for this project [link](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485)
 
+
+ # <h3 align="center">Hero section / Landing page</h3>
 ![Alt text](image.png)
+
+ # <h3 align="center">Business section / Landing page</h3>
 ![Alt text](image-1.png)
