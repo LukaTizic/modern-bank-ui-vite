@@ -1,4 +1,4 @@
-This is a `  Modern Bank UI 💰 ` project with [`Demo-link`](https://serene-quokka-512aa9.netlify.app/) and Figma files provided [`Here 🎨`](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485).
+This is a `  Modern Bank UI 💰 ` project with [`Demo-link`](https://serene-quokka-512aa9.netlify.app/) and Figma files provided [`HERE 🎨`](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485).
 </br>
 
 
@@ -12,11 +12,14 @@ This is a `  Modern Bank UI 💰 ` project with [`Demo-link`](https://serene-quo
 
 
 
-<p align="center">
-  <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://vitejs.dev/logo.svg" alt="Vite logo">
-  </a>
-</p>
+
+
+
+
+
+
+# <h1 align='center'> Vite ⚡</h1>
+
 <br/>
 <p align="center">
   <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
@@ -25,9 +28,6 @@ This is a `  Modern Bank UI 💰 ` project with [`Demo-link`](https://serene-quo
   <a href="https://pr.new/vitejs/vite"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
   <a href="https://chat.vitejs.dev"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
 </p>
-
-
-# Vite ⚡
 
 > Next Generation Frontend Tooling
 
